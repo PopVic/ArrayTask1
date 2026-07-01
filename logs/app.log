@@ -1,0 +1,23 @@
+2026-07-01 16:00:26 INFO  Valid array: [10, 20, 35]
+2026-07-01 16:00:26 INFO  Valid array: [10, 20, 40]
+2026-07-01 16:00:26 INFO  Valid array: [15, 25, 75]
+2026-07-01 16:00:26 WARN  Empty line skipped
+2026-07-01 16:00:26 ERROR Invalid line: 10..3, 75, 567
+2026-07-01 16:00:26 ERROR Invalid line: xzy
+2026-07-01 16:00:26 ERROR Invalid line: 12, 8f5, v7
+2026-07-01 16:00:26 WARN  Empty line skipped
+2026-07-01 16:00:26 WARN  Empty line skipped
+2026-07-01 16:03:09 INFO  Valid array: [10, 20, 35]
+2026-07-01 16:03:09 INFO  Valid array: [10, 20, 40]
+2026-07-01 16:03:09 INFO  Valid array: [15, 25, 75]
+2026-07-01 16:03:09 WARN  Empty line skipped
+2026-07-01 16:03:09 ERROR Invalid line: 10..3, 75, 567
+2026-07-01 16:03:09 ERROR Invalid line: xzy
+2026-07-01 16:03:09 ERROR Invalid line: 12, 8f5, v7
+2026-07-01 16:33:24 INFO  Valid array: [10, 20, 35]
+2026-07-01 16:33:24 INFO  Valid array: [10, 20, 40]
+2026-07-01 16:33:24 INFO  Valid array: [15, 25, 75]
+2026-07-01 16:33:24 WARN  Empty line skipped
+2026-07-01 16:33:24 ERROR Invalid line: 10..3, 75, 567
+2026-07-01 16:33:24 ERROR Invalid line: xzy
+2026-07-01 16:33:24 ERROR Invalid line: 12, 8f5, v7
